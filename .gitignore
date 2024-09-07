@@ -6,6 +6,14 @@ __pycache__/
 # C extensions
 *.so
 
+###############################################
+
+Conversational AI Chatbot/.env
+.env
+api_key.txt
+myenv
+###############################################
+
 # Distribution / packaging
 .Python
 build/
